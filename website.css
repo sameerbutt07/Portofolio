@@ -709,6 +709,7 @@ cursor: pointer;
     background:#fff;
     color: #b636ff;
 	border:1px solid #b636ff;
+    border-radius: 50%;
 }
 
 #scroll-Top  .return-to-top i{
