@@ -668,16 +668,16 @@ cursor: pointer;
 .hm-foot-icon ul li>a {
     color: #636a82;
     list-style-type: none;
-    margin-right:18px;
-    -webkit-transition: .3s; 
-    -moz-transition:.3s; 
-    -ms-transition:.3s; 
-    -o-transition:.3s;
-    transition: .3s;
+    margin-right: 18px;
+    font-size: 24px;
+  transition: transform 0.3s ease, color 0.3s ease;
 }
-.hm-foot-icon ul li>a:hover{
+
+.hm-foot-icon ul li>a:hover {
     color: #b636ff;
-}/*hm-foot-icon*/
+    transform: scale(1.2);
+}
+
 
 .hm-footer-copyright p{
     color: #888ea5;
