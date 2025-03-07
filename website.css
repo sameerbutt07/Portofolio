@@ -48,7 +48,7 @@ nav.navbar.bootsnav.no-background {
     align-items: center;
     justify-content: center;
     position:relative;
-    background:url(../images/about/welcome-banner.jpg)no-repeat;
+    background:url('Images/about/welcome-banner.jpg')no-repeat;
     background-size:cover;
     background-position: center;
     height:890px;
